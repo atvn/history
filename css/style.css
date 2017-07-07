@@ -7291,7 +7291,8 @@ html:not(.desktop) .main-header .menu .sub-menu {
 }
 @media (max-width: 1023px) {
   .histoire-info-block {
-    margin-top: 2.333rem;
+    padding-top: 2.333rem;
+    margin-top: 0;
   }
   .histoire-info-block .content .inner {
     padding-left: 0.952rem;
