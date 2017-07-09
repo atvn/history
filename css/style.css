@@ -7329,6 +7329,7 @@ html:not(.desktop) .main-header .menu .sub-menu {
 .timeline-block .name {
   font-family: "Amiri-Slanted", Helvetica, Arial, sans-serif;
   font-size: 1.619rem;
+  line-height: 2.25rem;
   color: #ffe4a9;
   font-weight: normal;
 }
