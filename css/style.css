@@ -7586,7 +7586,7 @@ html:not(.desktop) .main-header .menu .sub-menu {
     top: 5px;
   }
   .timeline-block .outer .node .line-1 {
-    transition: width .5s 1s ease;
+    transition: width .5s .3s ease;
   }
   .timeline-block .style-3 .outer .node {
     top: 4.238rem;
@@ -7645,8 +7645,8 @@ html:not(.desktop) .main-header .menu .sub-menu {
     -webkit-transform: translateY(10px);
         -ms-transform: translateY(10px);
             transform: translateY(10px);
-    transition: opacity 1s .75s ease, -webkit-transform 1s .75s ease;
-    transition: opacity 1s .75s ease, transform 1s .75s ease;
+    transition: opacity 1s .15s ease, -webkit-transform 1s .15s ease;
+    transition: opacity 1s .15s ease, transform 1s .15s ease;
   }
   .desktop .timeline-block .content,
   .desktop .timeline-block .img-product img,
@@ -7657,8 +7657,8 @@ html:not(.desktop) .main-header .menu .sub-menu {
     -webkit-transform: translateY(10px);
         -ms-transform: translateY(10px);
             transform: translateY(10px);
-    transition: opacity 0.75s 1s ease, -webkit-transform 0.75s 1s ease;
-    transition: opacity 0.75s 1s ease, transform 0.75s 1s ease;
+    transition: opacity 0.75s 0.3s ease, -webkit-transform 0.75s 0.3s ease;
+    transition: opacity 0.75s 0.3s ease, transform 0.75s 0.3s ease;
   }
   .desktop .timeline-block .timeline-item.animation .year,
   .desktop .timeline-block .timeline-item.animation .title-text,
